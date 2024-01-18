@@ -1,4 +1,4 @@
-# Azure DP-203 Certification Prep
+# Azure DP-203 Certification Prep | Microsoft Certified: Azure Data Engineer Associate
 
 ## Recommended Links
  - Study Guides and Demo Exam: https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/
